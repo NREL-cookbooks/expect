@@ -3,6 +3,7 @@
 .vagrant
 .bundle
 .config
+.idea
 coverage
 InstalledFiles
 lib/bundler/man
